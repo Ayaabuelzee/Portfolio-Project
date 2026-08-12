@@ -64,5 +64,4 @@ Dropped unnecessary columns after the cleaning process to create a streamlined d
 The dataset was transformed from raw housing data into a clean, structured dataset ready for reporting, visualization, and further analysis.
 
 ## Files
-
 - SQL Data Cleaning.sql
