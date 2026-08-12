@@ -66,5 +66,3 @@ The dataset was transformed from raw housing data into a clean, structured datas
 ## Files
 
 - SQL Data Cleaning.sql
-
-
