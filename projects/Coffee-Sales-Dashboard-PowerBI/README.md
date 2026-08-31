@@ -14,6 +14,5 @@ Images/dashboard.png
 
 ## Files
 - Coffee_Sales_Dashboard.pbix
-## dataset
-- Coffee_Sales_Data.xlsx
+- Coffee_Sales_Dataset.xlsx
 
