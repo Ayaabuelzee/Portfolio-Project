@@ -1,15 +1,23 @@
-# Data Professional Survey Dashboard | Power BI
+# Real-Time Survey Dashboard
 
-An interactive Power BI dashboard that analyzes survey data from data professionals, providing insights into salaries, job satisfaction, work-life balance, programming language preferences, and career trends.
+An interactive Power BI dashboard designed to monitor and analyze survey responses in real time. The dashboard provides instant insights into participant feedback, response trends, satisfaction levels, and key performance indicators through dynamic visualizations and filtering capabilities.
 
-## Tools Used
+## Features
+- Real-time survey response tracking
+- Response trend analysis
+- Satisfaction and feedback insights
+- Interactive filters and drill-down analysis
+- KPI monitoring and reporting
+
+## Tools
 - Power BI
-- Power Query
+- Excel
 - DAX
+- Power Query
 
-## Key Insights
-- Salary analysis by job title
-- Programming language preferences
-- Work-life balance and salary satisfaction
-- Demographic distribution of survey participants
-- Challenges of entering the data industry
+## Dashboard Preview
+
+Images/dashboard.png
+
+## Files
+- Real_Time_Survey_Dashboard.pbix
