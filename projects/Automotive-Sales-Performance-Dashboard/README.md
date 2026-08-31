@@ -15,3 +15,6 @@ An interactive Excel dashboard designed to clean, analyze, and visualize sales d
 - Customer Insights
 - Interactive Dashboard
 - KPI Tracking
+
+##File
+Car_sales_Dashoard.xlsx
