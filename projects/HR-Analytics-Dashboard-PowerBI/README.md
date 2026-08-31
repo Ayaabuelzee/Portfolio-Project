@@ -1,6 +1,6 @@
 # HR Analytics Dashboard | Power BI
 
-Interactive Power BI dashboard designed to analyze employee attrition, workforce demographics, job satisfaction, and HR performance metrics to support data-driven human resource decisions.
+Interactive Power BI dashboard designed to analyze employee attrition, workforce demographics, job satisfaction, and HR performance metrics, supporting data-driven HR decisions.
 
 ## Tools Used
 - Power BI
@@ -13,3 +13,6 @@ Interactive Power BI dashboard designed to analyze employee attrition, workforce
 - Job satisfaction ratings
 - Workforce demographics
 - Education field impact on attrition
+
+- ## files
+- HR Analytics Dashboard.pbix
