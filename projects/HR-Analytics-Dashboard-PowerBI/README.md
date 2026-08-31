@@ -14,5 +14,5 @@ Interactive Power BI dashboard designed to analyze employee attrition, workforce
 - Workforce demographics
 - Education field impact on attrition
 
-- ## files
+- ## Files
 - HR Analytics Dashboard.pbix
